@@ -5,4 +5,6 @@ LOCALHOST
 http://localhost/PDF.JS/web/index.html?file=/PDF.JS/pdfs/test.pdf
 
 GITHUB
-https://ffreality.github.io/PDF.JS/web/index.html?file=/PDF.JS/pdfs/test.PDF
+https://ffreality.github.io/PDF.JS/web/index.html?file=/PDF.JS/pdfs/test.pdf
+
+Becareful about extension uppercase !!
